@@ -1,4 +1,4 @@
-package org.SergiFactoriaF5;
+package org.SergiFactoriaF5.basics;
 
 public class PrimitiveTypes {
     public static void main(String[] args){

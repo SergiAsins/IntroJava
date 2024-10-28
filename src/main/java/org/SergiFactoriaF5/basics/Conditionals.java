@@ -1,4 +1,4 @@
-package org.SergiFactoriaF5;
+package org.SergiFactoriaF5.basics;
 
 public class Conditionals {
     public static void main(String[] args){
