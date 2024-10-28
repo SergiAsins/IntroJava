@@ -2,11 +2,14 @@ package org.SergiFactoriaF5;
 
 public class Conditionals {
     public static void main(String[] args){
-        boolean isActive=true;
-        if (isActive){
-            System.out.println("The user is active");
-        } else {
-            System.out.println("The user is not active");
+        // variable edad de un usuario con la minima memoria posible
+        // Imprimir el usuario es mayor de edad si 18 o +
+        // Imprimir el usuario es menor de edad si 17 o -
+        byte age = 17;
+        if(age >= 18){
+            System.out.println("The user an adult");
+        }else{
+            System.out.println("The user is a minor");
         }
     }
 }
